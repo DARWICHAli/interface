@@ -15,6 +15,8 @@
 
 ## Proposition d'itérations
 
+0. Wireframe de base.
+
 1. Interface "upload + affichage texte" sans Docker.  
  	-> nécessite de prendre en main les outils.
 
@@ -22,7 +24,7 @@
 	-> .gitlab-ci.yml adapté.  
 	-> familiarisation avec Docker.  
 
-3. Mise à jour automatique sur le serveur.
+3. Mise à jour automatique sur le serveur.  
 	-> Scripting
 
 4. _Incrémentations successives..._
