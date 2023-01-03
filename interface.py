@@ -13,7 +13,7 @@ try:
 
     import sys
 
-    sys.path.insert(1, '/Users/julesbangard/Documents/Master SDSC/Master 2/Projet_master')
+    sys.path.insert(1, 'Projet_master')
     import modele as md
 except Exception as ex:
     st.write(f"Modules are missing {ex}")
